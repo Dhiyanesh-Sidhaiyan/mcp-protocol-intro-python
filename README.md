@@ -123,6 +123,11 @@ To fully implement the MCP features:
 
 There are no lint or type checks implemented.
 
+### Inspecting/Debugging Tool
+
+<img width="1512" height="734" alt="image" src="https://github.com/user-attachments/assets/5976c002-0108-4a75-923f-3701f4d12355" />
+
+
 ## Architecture
 
 The project is structured as follows:
